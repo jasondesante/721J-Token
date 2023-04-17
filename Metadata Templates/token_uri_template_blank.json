@@ -1,0 +1,237 @@
+{
+    "version": "",
+    "name": "",
+    "title": "",
+    "duration": "",
+    "artist": "",
+    "album": "",
+    "track_number": "",
+    "genre": [
+        "",
+        ""
+    ],
+    "year": "",
+    "mime_type": "",
+    "audio_quality": "",
+    "tags": [
+        "",
+        "",
+        ""
+    ],
+    "key": "",
+    "bpm": "",
+    "description": "",
+    "description_artist": "",
+    "license": "",
+    "location_created": "",
+    "isrc": "",
+    "project": {
+        "title": "",
+        "artwork": {
+            "mime_type": "",
+            "uri": "",
+            "small": "",
+            "large": "",
+            "still": ""
+        },
+        "artist": "",
+        "description": "",
+        "type": "",
+        "original_release_date": "",
+        "record_label": "",
+        "publisher": "",
+        "upc": ""
+    },
+    "lyrics": {
+        "text": ""
+    },
+    "visualizer": {
+        "mime_type": "",
+        "uri": ""
+    },
+    "video": {
+        "mime_type": "",
+        "uri": ""
+    },
+    "artwork": {
+        "mime_type": "",
+        "uri": "",
+        "small": "",
+        "large": "",
+        "still": ""
+    },
+    "external_url": "",
+    "image": "",
+    "image_still": "",
+    "image_small": "",
+    "image_large": "",
+    "image_album": "",
+    "image_album_still": "",
+    "image_album_small": "",
+    "image_album_large": "",
+    "image_artist": "",
+    "image_artist_small": "",
+    "images": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "original_release_date": "",
+    "record_label": "",
+    "publisher": "",
+    "rarity": "",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": ""
+        },
+        {
+            "trait_type": "Rarity",
+            "value": ""
+        },
+        {
+            "trait_type": "Title",
+            "value": ""
+        },
+        {
+            "trait_type": "Artist",
+            "value": ""
+        },
+        {
+            "trait_type": "Album",
+            "value": ""
+        },
+        {
+            "trait_type": "Track Number",
+            "value": ""
+        },
+        {
+            "trait_type": "Audio Quality",
+            "value": ""
+        },
+        {
+            "trait_type": "Year",
+            "value": ""
+        },
+        {
+            "trait_type": "Cover Artist",
+            "value": ""
+        }
+    ],
+    "mp3_url": "",
+    "lossy_audio": "",
+    "audio_url": "",
+    "lossless_audio": "",
+    "animation_url": "",
+    "fee_recipient": "",
+    "seller_fee_basis_points": "",
+    "playlist_metadata": "",
+    "credits": [
+        {
+            "name": "",
+            "collaborator_type": "guitar"
+        },
+        {
+            "name": "",
+            "collaborator_type": "bass"
+        },
+        {
+            "name": "",
+            "collaborator_type": "drums"
+        },
+        {
+            "name": "",
+            "collaborator_type": "keyboards"
+        },
+        {
+            "name": "",
+            "collaborator_type": "creator"
+        },
+        {
+            "name": "",
+            "collaborator_type": "artist"
+        },
+        {
+            "name": "",
+            "collaborator_type": "songwriter"
+        },
+        {
+            "name": "",
+            "collaborator_type": "singer"
+        },
+        {
+            "name": "",
+            "collaborator_type": "engineer"
+        },
+        {
+            "name": "",
+            "collaborator_type": "producer"
+        },
+        {
+            "name": "",
+            "collaborator_type": "animator"
+        },
+        {
+            "name": "",
+            "collaborator_type": "editor"
+        },
+        {
+            "name": "",
+            "collaborator_type": "creative director"
+        },
+        {
+            "name": "",
+            "collaborator_type": "smart contract engineer"
+        },
+        {
+            "name": "",
+            "collaborator_type": "web3 consultant"
+        },
+        {
+            "name": "",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "",
+            "collaborator_type": "manager"
+        },
+        {
+            "name": "",
+            "collaborator_type": "project manager"
+        },
+        {
+            "name": "",
+            "collaborator_type": "public relations management"
+        },
+        {
+            "name": "",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "",
+            "collaborator_type": "cover artist"
+        }
+    ],
+    "stems": [
+        {
+            "name": "",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "version": "example- 1",
+    "name": "example- Bored Vibes",
+    "title": "example - Bored Vibes",
+    "duration": "example- 260 (length in seconds for a song that is 4:20)",
+    "artist": "example- Jason DeSante",
+    "album": "example- We Love You",
+    "track_number": "example- 2",
+    "genre": [
+        "example- Rock",
+        "example- Instrumental"
+    ],
+    "year": "example- 2022",
+    "mime_type": "example- audio/wav",
+    "audio_quality": "example- sample rate and bit rate 44.1/16",
+    "tags": [
+        "example- Rock",
+        "example- Instrumental",
+        "example- Garfield"
+    ],
+    "key": "example- a##b augmented minor",
+    "bpm": "example- 133.33333",
+    "description": "example- Inspired by The God Toad",
+    "description_artist": "example-optional- ",
+    "license": "example- Rights Reserved, Public Performance License",
+    "location_created": "example- Canada",
+    "isrc": "CC-XXX-YY-NNNNN",
+    "project": {
+        "title": "example- same as album field",
+        "artwork": {
+            "mime_type": "image/gif",
+            "uri": "example-optional- same as image_album",
+            "small": "example-optional- same as image_album_small",
+            "large": "example-optional- same as image_album_large",
+            "still": "example-optional- same as image_album_still"
+        },
+        "artist": "example- Jason DeSante",
+        "description": "example- ",
+        "type": "example- Single/EP/LP",
+        "original_release_date": "January 1, 1900",
+        "record_label": "example- ",
+        "publisher": "example- ",
+        "upc": ""
+    },
+    "lyrics": {
+        "text": "example-optional- don't forget the \n for new lines"
+    },
+    "visualizer": {
+        "mime_type": "video/mp4",
+        "uri": "example- a looping visual that vibes with the music. Any length"
+    },
+    "video": {
+        "mime_type": "video/mp4",
+        "uri": "example- url to a video"
+    },
+    "artwork": {
+        "mime_type": "image/png",
+        "uri": "example- choose the same as image ",
+        "small": "example- same as image_small",
+        "large": "example- same as image_large",
+        "still": "example- same as image_still"
+    },
+    "external_url": "example- https://arweave.net/0mM2WXLSzI35gRc30QilTo3drZhn3oplsiBrW1WXKnk",
+    "image": "example- https://arweave.net/K1Frbnb0vGEQDpPVQZOWBnUwZFLp9wgjH02yZKrcCoA",
+    "image_still": "example-only needed if image is an animation- https://arweave.net/XpPwT2cvDYdd4r7rI5ZdDu2QlkrnqXTvKSuxmwGd1hw",
+    "image_small": "example- recommended 500px max for small",
+    "image_large": "example- full size image",
+    "image_album": "example- optimized image",
+    "image_album_still": "example- if it's an animation",
+    "image_album_small": "example- recommended 500px max for small",
+    "image_album_large": "example- full size image",
+    "image_artist": "example-optional- ",
+    "image_artist_small": "example-optional- recommended 500px max for small",
+    "images": [
+        "example- this should have every image in an easily accessible array. Meaning image, album image, artist image, and any extra images in an array.",
+        "regular image",
+        "album image",
+        "artist image",
+        "spicy bonus image"
+    ],
+    "original_release_date": "January 1, 1900",
+    "record_label": "",
+    "publisher": "",
+    "rarity": "example- Genesis",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "example- Lemonhead"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "copy what you wrote in rarity above"
+        },
+        {
+            "trait_type": "Title",
+            "value": "copy what you wrote in title above"
+        },
+        {
+            "trait_type": "Artist",
+            "value": "copy what you wrote in artist above"
+        },
+        {
+            "trait_type": "Album",
+            "value": "copy what you wrote in project.title above"
+        },
+        {
+            "trait_type": "Track Number",
+            "value": "copy what you wrote in track number above"
+        },
+        {
+            "trait_type": "Audio Quality",
+            "value": "copy what you wrote in quality above"
+        },
+        {
+            "trait_type": "Year",
+            "value": "copy what you wrote in year above"
+        },
+        {
+            "trait_type": "Cover Artist",
+            "value": "copy what was at cover_artist"
+        }
+    ],
+    "mp3_url": "example-optional- mp3 file",
+    "lossy_audio": "example- same as mp3_url",
+    "audio_url": "example- The HQ audio file",
+    "lossless_audio": "example- same as audio_url",
+    "animation_url": "example- same as audio_url",
+    "fee_recipient": "example- 0x47ca1200643d3544B2c90fe6E0bf02705a3206F6",
+    "seller_fee_basis_points": "example- 1000",
+    "playlist_metadata": "example url to playlist metadata json file",
+    "credits": [
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "guitar"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "bass"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "drums"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "keyboards"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "creator"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "artist"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "songwriter"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "singer"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "engineer"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "producer"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "animator"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "editor"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "creative director"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "smart contract engineer"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "web3 consultant"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "manager"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "project manager"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "public relations management"
+        },
+        {
+            "name": "example- vitalik.eth",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "example- Kupeh Rodriguez",
+            "collaborator_type": "cover artist"
+        }
+    ],
+    "stems": [
+        {
+            "name": "Vocal 1",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "Vocal 2",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "Guitars",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "Bass",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        },
+        {
+            "name": "Drums",
+            "audio_quality": "",
+            "mime_type": "",
+            "uri": ""
+        }
+    ]
+}
