@@ -2,15 +2,19 @@
     "version": "",
     "name": "",
     "title": "",
-    "duration": "",
+    "duration": 7,
     "artist": "",
+    "artists": [
+        "",
+        ""
+    ],
     "album": "",
-    "track_number": "",
+    "track_number": 7,
     "genre": [
         "",
         ""
     ],
-    "year": "",
+    "year": 7,
     "mime_type": "",
     "audio_quality": "",
     "tags": [
@@ -19,7 +23,7 @@
         ""
     ],
     "key": "",
-    "bpm": "",
+    "bpm": 7,
     "description": "",
     "description_artist": "",
     "license": "",
@@ -30,9 +34,9 @@
         "artwork": {
             "mime_type": "",
             "uri": "",
+            "thumb": "",
             "small": "",
-            "large": "",
-            "still": ""
+            "large": ""
         },
         "artist": "",
         "description": "",
@@ -56,20 +60,21 @@
     "artwork": {
         "mime_type": "",
         "uri": "",
+        "thumb": "",
         "small": "",
-        "large": "",
-        "still": ""
+        "large": ""
     },
     "external_url": "",
     "image": "",
-    "image_still": "",
+    "image_thumb": "",
     "image_small": "",
     "image_large": "",
     "image_album": "",
-    "image_album_still": "",
+    "image_album_thumb": "",
     "image_album_small": "",
     "image_album_large": "",
     "image_artist": "",
+    "image_artist_thumb": "",
     "image_artist_small": "",
     "images": [
         "",
@@ -125,9 +130,15 @@
     "audio_url": "",
     "lossless_audio": "",
     "animation_url": "",
-    "fee_recipient": "",
-    "seller_fee_basis_points": "",
     "playlist_metadata": "",
+    "step_mania": "",
+    "clone_hero": {
+        "album": "",
+        "background": "",
+        "notes": "",
+        "song_ini": "",
+        "song": ""
+    },
     "credits": [
         {
             "name": "",
@@ -232,6 +243,69 @@
             "audio_quality": "",
             "mime_type": "",
             "uri": ""
+        }
+    ],
+    "mixes": [
+        {
+            "name": "ex. Extended",
+            "mime_type": "",
+            "uri": "",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1 *set the number to weigh the mix's chance of being chosen when randomized1 *set the number to weigh the mix's chance of being chosen when randomized"
+                },
+                {
+                    "type": "weather",
+                    "value": "rain *set the weather to be able to play the mix"
+                },
+                {
+                    "type": "day",
+                    "value": " *set the day of the week to be able to play the mix"
+                },
+                {
+                    "type": "start_time",
+                    "value": " *set the start time of day to be able to play the mix"
+                },
+                {
+                    "type": "end_time",
+                    "value": " *set the end time of day to be able to play the mix"
+                },
+                {
+                    "type": "min_plays",
+                    "value": " *set the min number of plays to be on a song for this mix to be playable (can be 0 or higher)"
+                },
+                {
+                    "type": "max_plays",
+                    "value": " *set the max number of plays to be on a song for this mix to be playable (can be 1 or higher)"
+                },
+                {
+                    "type": "every_x_plays",
+                    "value": "5 *set how many plays in between this mix having another chance to be played (can only be 2 or higher)"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "mime_type": "",
+            "uri": "",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1 *set the number to weigh the mix's chance of being chosen when randomized1 *set the number to weigh the mix's chance of being chosen when randomized"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "mime_type": "",
+            "uri": "",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1 *set the number to weigh the mix's chance of being chosen when randomized1 *set the number to weigh the mix's chance of being chosen when randomized"
+                }
+            ]
         }
     ]
 }

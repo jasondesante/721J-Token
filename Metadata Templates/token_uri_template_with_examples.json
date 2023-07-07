@@ -2,15 +2,19 @@
     "version": "example- 1",
     "name": "example- Bored Vibes",
     "title": "example - Bored Vibes",
-    "duration": "example- 260 (length in seconds for a song that is 4:20)",
+    "duration": 260,
     "artist": "example- Jason DeSante",
+    "artists": [
+        "example-optional- me",
+        "example-optional- you"
+    ],
     "album": "example- We Love You",
-    "track_number": "example- 2",
+    "track_number": 2,
     "genre": [
         "example- Rock",
         "example- Instrumental"
     ],
-    "year": "example- 2022",
+    "year": 2022,
     "mime_type": "example- audio/wav",
     "audio_quality": "example- sample rate and bit rate 44.1/16",
     "tags": [
@@ -19,7 +23,7 @@
         "example- Garfield"
     ],
     "key": "example- a##b augmented minor",
-    "bpm": "example- 133.33333",
+    "bpm": 133.33333,
     "description": "example- Inspired by The God Toad",
     "description_artist": "example-optional- ",
     "license": "example- Rights Reserved, Public Performance License",
@@ -30,9 +34,9 @@
         "artwork": {
             "mime_type": "image/gif",
             "uri": "example-optional- same as image_album",
+            "thumb": "example-optional- same as image_album_thumb",
             "small": "example-optional- same as image_album_small",
-            "large": "example-optional- same as image_album_large",
-            "still": "example-optional- same as image_album_still"
+            "large": "example-optional- same as image_album_large"
         },
         "artist": "example- Jason DeSante",
         "description": "example- ",
@@ -56,20 +60,21 @@
     "artwork": {
         "mime_type": "image/png",
         "uri": "example- choose the same as image ",
+        "thumb": "example- same as image_still",
         "small": "example- same as image_small",
-        "large": "example- same as image_large",
-        "still": "example- same as image_still"
+        "large": "example- same as image_large"
     },
     "external_url": "example- https://arweave.net/0mM2WXLSzI35gRc30QilTo3drZhn3oplsiBrW1WXKnk",
     "image": "example- https://arweave.net/K1Frbnb0vGEQDpPVQZOWBnUwZFLp9wgjH02yZKrcCoA",
-    "image_still": "example-only needed if image is an animation- https://arweave.net/XpPwT2cvDYdd4r7rI5ZdDu2QlkrnqXTvKSuxmwGd1hw",
+    "image_thumb": "example- the most efficient 50px max",
     "image_small": "example- recommended 500px max for small",
     "image_large": "example- full size image",
     "image_album": "example- optimized image",
-    "image_album_still": "example- if it's an animation",
+    "image_album_thumb": "example- 50px max",
     "image_album_small": "example- recommended 500px max for small",
     "image_album_large": "example- full size image",
     "image_artist": "example-optional- ",
+    "image_artist_thumb": "example-optional- recommended 50px max for thumb",
     "image_artist_small": "example-optional- recommended 500px max for small",
     "images": [
         "example- this should have every image in an easily accessible array. Meaning image, album image, artist image, and any extra images in an array.",
@@ -125,9 +130,15 @@
     "audio_url": "example- The HQ audio file",
     "lossless_audio": "example- same as audio_url",
     "animation_url": "example- same as audio_url",
-    "fee_recipient": "example- 0x47ca1200643d3544B2c90fe6E0bf02705a3206F6",
-    "seller_fee_basis_points": "example- 1000",
     "playlist_metadata": "example url to playlist metadata json file",
+    "step_mania": "example url to step mania file (ssc or sm file)",
+    "clone_hero": {
+        "album": "example url to image",
+        "background": "example url to background image",
+        "notes": "example url to clone hero chart file",
+        "song_ini": "example url to ini for audio",
+        "song": "example url to ogg format audio file"
+    },
     "credits": [
         {
             "name": "example- vitalik.eth",
@@ -244,6 +255,80 @@
             "audio_quality": "",
             "mime_type": "",
             "uri": ""
+        }
+    ],
+    "mixes": [
+        {
+            "name": "ex. Extended",
+            "mime_type": "audio/wav",
+            "uri": "link to wav file of song",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1 *set the number to weigh the mix's chance of being chosen when randomized1 *set the number to weigh the mix's chance of being chosen when randomized"
+                },
+                {
+                    "type": "weather",
+                    "value": "rain *set the weather to be able to play the mix"
+                },
+                {
+                    "type": "day",
+                    "value": " *set the day of the week to be able to play the mix"
+                },
+                {
+                    "type": "start_time",
+                    "value": " *set the start time of day to be able to play the mix"
+                },
+                {
+                    "type": "end_time",
+                    "value": " *set the end time of day to be able to play the mix"
+                },
+                {
+                    "type": "min_plays",
+                    "value": " *set the min number of plays to be on a song for this mix to be playable (can be 0 or higher)"
+                },
+                {
+                    "type": "max_plays",
+                    "value": " *set the max number of plays to be on a song for this mix to be playable (can be 1 or higher)"
+                },
+                {
+                    "type": "every_x_plays",
+                    "value": "5 *set how many plays in between this mix having another chance to be played (can only be 2 or higher)"
+                }
+            ]
+        },
+        {
+            "name": "Alt Guitar Solo",
+            "mime_type": "application/json",
+            "uri": "url to json file of metadata which has url to song",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "name": "Alt Outro",
+            "mime_type": "application/json",
+            "uri": "url to json file of metadata which has url to song",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "name": "Original",
+            "mime_type": "audio/wav",
+            "uri": "link to wav file of song",
+            "conditions": [
+                {
+                    "type": "weight",
+                    "value": "1"
+                }
+            ]
         }
     ]
 }

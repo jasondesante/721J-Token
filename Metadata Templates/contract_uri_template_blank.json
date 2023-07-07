@@ -8,11 +8,11 @@
         "",
         ""
     ],
-    "image_still": "",
+    "image_thumb": "",
     "image_small": "",
     "image_large": "",
     "image_banner": "",
-    "image_banner_still": "",
+    "image_banner_large": "",
     "external_url": "",
     "external_link": "",
     "website": "",
@@ -23,7 +23,5 @@
     "soundcloud": "",
     "bandcamp": "",
     "tidal": "",
-    "instagram": "",
-    "fee_recipient": "",
-    "seller_fee_basis_points": ""
+    "instagram": ""
 }
