@@ -5,8 +5,14 @@
     "duration": 7,
     "artist": "",
     "artists": [
-        "",
-        ""
+        {
+            "name": "",
+            "collaborator_type": ""
+        },
+        {
+            "name": "",
+            "collaborator_type": ""
+        }
     ],
     "album": "",
     "track_number": 7,

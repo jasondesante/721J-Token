@@ -5,8 +5,22 @@
     "duration": 260,
     "artist": "example- Jason DeSante",
     "artists": [
-        "example-optional- me",
-        "example-optional- you"
+        {
+            "name": "example-optional- me",
+            "collaborator_type": "main"
+        },
+        {
+            "name": "example-optional- you",
+            "collaborator_type": "featured"
+        },
+        {
+            "name": "example-optional- him",
+            "collaborator_type": "producer"
+        },
+        {
+            "name": "example-optional- her",
+            "collaborator_type": "remix"
+        }
     ],
     "album": "example- We Love You",
     "track_number": 2,
