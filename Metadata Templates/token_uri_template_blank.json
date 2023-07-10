@@ -288,6 +288,18 @@
                 {
                     "type": "every_x_plays",
                     "value": "5 *set how many plays in between this mix having another chance to be played (can only be 2 or higher)"
+                },
+                {
+                    "type": "altitude",
+                    "value": " *will play at a certain altitude"
+                },
+                {
+                    "type": "favorite",
+                    "value": " *will play if you favorite the song"
+                },
+                {
+                    "type": "birthday",
+                    "value": " *will play on your birthday"
                 }
             ]
         },
