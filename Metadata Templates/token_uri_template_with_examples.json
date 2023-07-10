@@ -156,87 +156,87 @@
     "credits": [
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "guitar"
+            "credit": "guitar"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "bass"
+            "credit": "bass"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "drums"
+            "credit": "drums"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "keyboards"
+            "credit": "keyboards"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "creator"
+            "credit": "creator"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "artist"
+            "credit": "artist"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "songwriter"
+            "credit": "songwriter"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "singer"
+            "credit": "singer"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "engineer"
+            "credit": "engineer"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "producer"
+            "credit": "producer"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "animator"
+            "credit": "animator"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "editor"
+            "credit": "editor"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "creative director"
+            "credit": "creative director"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "smart contract engineer"
+            "credit": "smart contract engineer"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "web3 consultant"
+            "credit": "web3 consultant"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "community engagement"
+            "credit": "community engagement"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "manager"
+            "credit": "manager"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "project manager"
+            "credit": "project manager"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "public relations management"
+            "credit": "public relations management"
         },
         {
             "name": "example- vitalik.eth",
-            "collaborator_type": "community engagement"
+            "credit": "community engagement"
         },
         {
             "name": "example- Kupeh Rodriguez",
-            "collaborator_type": "cover artist"
+            "credit": "cover artist"
         }
     ],
     "stems": [

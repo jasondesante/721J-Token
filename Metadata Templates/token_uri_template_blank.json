@@ -148,87 +148,87 @@
     "credits": [
         {
             "name": "",
-            "collaborator_type": "guitar"
+            "credit": "guitar"
         },
         {
             "name": "",
-            "collaborator_type": "bass"
+            "credit": "bass"
         },
         {
             "name": "",
-            "collaborator_type": "drums"
+            "credit": "drums"
         },
         {
             "name": "",
-            "collaborator_type": "keyboards"
+            "credit": "keyboards"
         },
         {
             "name": "",
-            "collaborator_type": "creator"
+            "credit": "creator"
         },
         {
             "name": "",
-            "collaborator_type": "artist"
+            "credit": "artist"
         },
         {
             "name": "",
-            "collaborator_type": "songwriter"
+            "credit": "songwriter"
         },
         {
             "name": "",
-            "collaborator_type": "singer"
+            "credit": "singer"
         },
         {
             "name": "",
-            "collaborator_type": "engineer"
+            "credit": "engineer"
         },
         {
             "name": "",
-            "collaborator_type": "producer"
+            "credit": "producer"
         },
         {
             "name": "",
-            "collaborator_type": "animator"
+            "credit": "animator"
         },
         {
             "name": "",
-            "collaborator_type": "editor"
+            "credit": "editor"
         },
         {
             "name": "",
-            "collaborator_type": "creative director"
+            "credit": "creative director"
         },
         {
             "name": "",
-            "collaborator_type": "smart contract engineer"
+            "credit": "smart contract engineer"
         },
         {
             "name": "",
-            "collaborator_type": "web3 consultant"
+            "credit": "web3 consultant"
         },
         {
             "name": "",
-            "collaborator_type": "community engagement"
+            "credit": "community engagement"
         },
         {
             "name": "",
-            "collaborator_type": "manager"
+            "credit": "manager"
         },
         {
             "name": "",
-            "collaborator_type": "project manager"
+            "credit": "project manager"
         },
         {
             "name": "",
-            "collaborator_type": "public relations management"
+            "credit": "public relations management"
         },
         {
             "name": "",
-            "collaborator_type": "community engagement"
+            "credit": "community engagement"
         },
         {
             "name": "",
-            "collaborator_type": "cover artist"
+            "credit": "cover artist"
         }
     ],
     "stems": [
