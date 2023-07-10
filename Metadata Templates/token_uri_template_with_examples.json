@@ -242,31 +242,26 @@
     "stems": [
         {
             "name": "Vocal 1",
-            "audio_quality": "",
             "mime_type": "",
             "uri": ""
         },
         {
             "name": "Vocal 2",
-            "audio_quality": "",
             "mime_type": "",
             "uri": ""
         },
         {
             "name": "Guitars",
-            "audio_quality": "",
             "mime_type": "",
             "uri": ""
         },
         {
             "name": "Bass",
-            "audio_quality": "",
             "mime_type": "",
             "uri": ""
         },
         {
             "name": "Drums",
-            "audio_quality": "",
             "mime_type": "",
             "uri": ""
         }
