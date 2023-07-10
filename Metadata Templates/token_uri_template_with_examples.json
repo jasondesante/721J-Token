@@ -7,19 +7,19 @@
     "artists": [
         {
             "name": "example-optional- me",
-            "collaborator_type": "main"
+            "type": "main"
         },
         {
             "name": "example-optional- you",
-            "collaborator_type": "featured"
+            "type": "featured"
         },
         {
             "name": "example-optional- him",
-            "collaborator_type": "producer"
+            "type": "producer"
         },
         {
             "name": "example-optional- her",
-            "collaborator_type": "remix"
+            "type": "remix"
         }
     ],
     "album": "example- We Love You",
