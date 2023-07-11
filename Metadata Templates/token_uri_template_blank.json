@@ -138,13 +138,7 @@
     "animation_url": "",
     "playlist_metadata": "",
     "step_mania": "",
-    "clone_hero": {
-        "album": "",
-        "background": "",
-        "notes": "",
-        "song_ini": "",
-        "song": ""
-    },
+    "clone_hero": "",
     "credits": [
         {
             "name": "",
