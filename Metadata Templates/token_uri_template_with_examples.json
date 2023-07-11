@@ -236,28 +236,28 @@
     "stems": [
         {
             "name": "Vocal 1",
-            "mime_type": "",
-            "uri": ""
+            "mime_type": "wav",
+            "uri": "example - link to audio"
         },
         {
             "name": "Vocal 2",
-            "mime_type": "",
-            "uri": ""
+            "mime_type": "poo",
+            "uri": "example - link to audio"
         },
         {
             "name": "Guitars",
-            "mime_type": "",
-            "uri": ""
+            "mime_type": "pee",
+            "uri": "example - link to audio"
         },
         {
             "name": "Bass",
-            "mime_type": "",
-            "uri": ""
+            "mime_type": "flac",
+            "uri": "example - link to audio"
         },
         {
             "name": "Drums",
-            "mime_type": "",
-            "uri": ""
+            "mime_type": "ape",
+            "uri": "example - link to audio"
         }
     ],
     "mixes": [
