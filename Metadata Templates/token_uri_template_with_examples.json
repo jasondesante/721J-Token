@@ -58,7 +58,7 @@
         "original_release_date": "January 1, 1900",
         "record_label": "example- ",
         "publisher": "example- ",
-        "upc": ""
+        "upc": "example text"
     },
     "lyrics": {
         "text": "example-optional- don't forget the \n for new lines"
@@ -98,8 +98,8 @@
         "spicy bonus image"
     ],
     "original_release_date": "January 1, 1900",
-    "record_label": "",
-    "publisher": "",
+    "record_label": "example text",
+    "publisher": "example text",
     "rarity": "example- Genesis",
     "attributes": [
         {
