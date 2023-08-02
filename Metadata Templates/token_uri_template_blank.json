@@ -22,7 +22,8 @@
     ],
     "year": 7,
     "mime_type": "",
-    "audio_quality": "",
+    "audio_quality_bit": 16,
+    "audio_quality_sample": 44.1,
     "tags": [
         "",
         "",

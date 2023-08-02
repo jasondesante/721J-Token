@@ -30,7 +30,8 @@
     ],
     "year": 2022,
     "mime_type": "example- audio/wav",
-    "audio_quality": "example- sample rate and bit rate 44.1/16",
+    "audio_quality_bit": 16,
+    "audio_quality_sample": 44.1,
     "tags": [
         "example- Rock",
         "example- Instrumental",
