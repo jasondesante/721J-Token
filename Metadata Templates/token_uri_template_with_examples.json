@@ -30,8 +30,8 @@
     ],
     "year": 2022,
     "mime_type": "example- audio/wav",
-    "audio_quality_bit": 16,
-    "audio_quality_sample": 44.1,
+    "bit_depth": 16,
+    "sample_rate": 44.1,
     "tags": [
         "example- Rock",
         "example- Instrumental",
@@ -45,7 +45,7 @@
     "location_created": "example- Canada",
     "isrc": "CC-XXX-YY-NNNNN",
     "project": {
-        "title": "example- same as album field",
+        "artist": "example- Jason DeSante",
         "artwork": {
             "mime_type": "image/gif",
             "uri": "example-optional- same as image_album",
@@ -53,12 +53,12 @@
             "small": "example-optional- same as image_album_small",
             "large": "example-optional- same as image_album_large"
         },
-        "artist": "example- Jason DeSante",
         "description": "example- ",
-        "type": "example- Single/EP/LP",
         "original_release_date": "January 1, 1900",
-        "record_label": "example- ",
         "publisher": "example- ",
+        "record_label": "example- ",
+        "title": "example- same as album field",
+        "type": "example- Single/EP/LP",
         "upc": "example text"
     },
     "lyrics": {
@@ -129,7 +129,7 @@
         },
         {
             "trait_type": "Audio Quality",
-            "value": "copy what you wrote in quality above"
+            "value": "sample_rate / bit_depth"
         },
         {
             "trait_type": "Year",
@@ -315,8 +315,8 @@
         },
         {
             "name": "Alt Guitar Solo",
-            "mime_type": "application/json",
-            "uri": "url to json file of metadata which has url to song",
+            "mime_type": "audio/wav",
+            "uri": "link to wav file of song",
             "conditions": [
                 {
                     "type": "weight",
