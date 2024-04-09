@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.4;
 
-import "@openzeppelin/contracts-upgradeable/utils/introspection/IERC165Upgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/utils/introspection/IERC165Upgradeable.sol";
 
 interface IERC721JUpgradeable is IERC165Upgradeable {
   

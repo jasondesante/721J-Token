@@ -145,7 +145,7 @@
     "audio_url": "example- The HQ audio file",
     "lossless_audio": "example- same as audio_url",
     "animation_url": "example- same as audio_url",
-    "playlist_metadata": "example url to playlist metadata json file",
+    "vrm": "example url to vrm file",
     "step_mania": "example url to step mania file (ssc or sm file)",
     "clone_hero": "example url to zip of folder",
     "credits": [

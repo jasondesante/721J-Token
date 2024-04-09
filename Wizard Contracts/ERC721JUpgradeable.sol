@@ -1,19 +1,19 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "@openzeppelin/contracts-upgradeable/token/ERC721/IERC721Upgradeable.sol"; // Interface Id: 0x80ac58cd
-import "@openzeppelin/contracts-upgradeable/token/ERC721/IERC721ReceiverUpgradeable.sol"; // Interface Id: 0x150b7a02
-import "@openzeppelin/contracts-upgradeable/token/ERC721/extensions/IERC721MetadataUpgradeable.sol"; // Interface Id: 0x5b5e139f
-import "@openzeppelin/contracts-upgradeable/token/ERC721/extensions/IERC721EnumerableUpgradeable.sol"; // Interface Id: 0x780e9d63
-import "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol";
-import "@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol";
-import "@openzeppelin/contracts-upgradeable/utils/StringsUpgradeable.sol";
-import "@openzeppelin/contracts-upgradeable/utils/introspection/ERC165Upgradeable.sol";
-import "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/token/ERC721/IERC721Upgradeable.sol"; // Interface Id: 0x80ac58cd
+import "@openzeppelin/contracts-upgradeable@4.7.0/token/ERC721/IERC721ReceiverUpgradeable.sol"; // Interface Id: 0x150b7a02
+import "@openzeppelin/contracts-upgradeable@4.7.0/token/ERC721/extensions/IERC721MetadataUpgradeable.sol"; // Interface Id: 0x5b5e139f
+import "@openzeppelin/contracts-upgradeable@4.7.0/token/ERC721/extensions/IERC721EnumerableUpgradeable.sol"; // Interface Id: 0x780e9d63
+import "@openzeppelin/contracts-upgradeable@4.7.0/utils/AddressUpgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/utils/ContextUpgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/utils/StringsUpgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/utils/introspection/ERC165Upgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/access/OwnableUpgradeable.sol";
 
-import "@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/token/ERC20/ERC20Upgradeable.sol";
 
-import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
+import "@openzeppelin/contracts-upgradeable@4.7.0/proxy/utils/Initializable.sol";
 
 import "./Interfaces/IERC721JUpgradeable.sol"; // Interface Id: 0x75b86392
 import "./Interfaces/IERC721JFullUpgradeable.sol"; // Interface Id: 0xa360e0cd

@@ -1,0 +1,115 @@
+{
+    "version": "",
+    "name": "",
+    "title": "",
+    "description": "",
+    "playlist": [
+        {
+            "contract_address": "",
+            "token_id": ""
+        },
+        {
+            "contract_address": "",
+            "token_id": ""
+        },
+        {
+            "contract_address": "",
+            "token_id": ""
+        },
+        {
+            "contract_address": "",
+            "token_id": ""
+        }
+    ],
+    "genre": [
+        "",
+        ""
+    ],
+    "tags": [
+        "",
+        "",
+        ""
+    ],
+    "artwork": {
+        "mime_type": "",
+        "uri": "",
+        "small": "",
+        "large": "",
+        "still": ""
+    },
+    "visualizer": {
+        "mime_type": "",
+        "uri": ""
+    },
+    "image": "",
+    "image_still": "",
+    "image_small": "",
+    "image_large": "",
+    "images": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "attributes": [
+        {
+            "trait_type": "Playlist Name",
+            "value": ""
+        },
+        {
+            "trait_type": "Curated By",
+            "value": ""
+        }
+    ],
+    "credits": [
+        {
+            "name": "",
+            "collaborator_type": "creator"
+        },
+        {
+            "name": "",
+            "collaborator_type": "curator"
+        },
+        {
+            "name": "",
+            "collaborator_type": "editor"
+        },
+        {
+            "name": "",
+            "collaborator_type": "creative director"
+        },
+        {
+            "name": "",
+            "collaborator_type": "smart contract engineer"
+        },
+        {
+            "name": "",
+            "collaborator_type": "web3 consultant"
+        },
+        {
+            "name": "",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "",
+            "collaborator_type": "manager"
+        },
+        {
+            "name": "",
+            "collaborator_type": "project manager"
+        },
+        {
+            "name": "",
+            "collaborator_type": "public relations management"
+        },
+        {
+            "name": "",
+            "collaborator_type": "community engagement"
+        },
+        {
+            "name": "",
+            "collaborator_type": "cover artist"
+        }
+    ]
+}

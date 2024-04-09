@@ -3,9 +3,9 @@
 pragma solidity ^0.8.4;
 
 import "./ERC721JUpgradeable.sol";
-import "@openzeppelin/contracts/proxy/Clones.sol";
-import "@openzeppelin/contracts/utils/introspection/ERC165.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts@4.7.0/proxy/Clones.sol";
+import "@openzeppelin/contracts@4.7.0/utils/introspection/ERC165.sol";
+import "@openzeppelin/contracts@4.7.0/access/Ownable.sol";
 
 import "./Interfaces/IContractWizard.sol"; // Interface Id: 0xeb4285e2
 
