@@ -145,9 +145,15 @@
     "audio_url": "example- The HQ audio file",
     "lossless_audio": "example- same as audio_url",
     "animation_url": "example- same as audio_url",
-    "vrm": "example url to vrm file",
-    "step_mania": "example url to step mania file (ssc or sm file)",
-    "clone_hero": "example url to zip of folder",
+    "vrm": "example- url to vrm file",
+    "merch": {
+        "mime_type": "example- mime type of 3d merch file",
+        "type": "example- shirt / hat / hoodie / pants etc",
+        "uri": "example- url to the 3d merch file to be used in things like unreal engine"
+    },
+    "midi": "example- url to midi file of song",
+    "step_mania": "example- url to step mania file (ssc or sm file)",
+    "clone_hero": "example- url to zip of folder",
     "credits": [
         {
             "name": "example- vitalik.eth",

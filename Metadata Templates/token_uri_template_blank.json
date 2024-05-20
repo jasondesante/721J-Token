@@ -138,6 +138,12 @@
     "lossless_audio": "",
     "animation_url": "",
     "vrm": "",
+    "merch": {
+        "mime_type": "",
+        "type": "",
+        "uri": ""
+    },
+    "midi": "",
     "step_mania": "",
     "clone_hero": "",
     "credits": [
