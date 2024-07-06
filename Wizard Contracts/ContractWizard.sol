@@ -9,11 +9,11 @@ import "@openzeppelin/contracts@4.7.0/access/Ownable.sol";
 
 import "./Interfaces/IContractWizard.sol"; // Interface Id: 0xeb4285e2
 
-// Ape Tapes Contract Wizard 
+// Contract Wizard 
 // Jason DeSante
 //
 //
-contract ApeTapesContractWizard is ERC165, Ownable, IContractWizard {
+contract ContractWizard is ERC165, Ownable, IContractWizard {
     address immutable tokenImplementation;
 
     constructor() {
@@ -21,7 +21,7 @@ contract ApeTapesContractWizard is ERC165, Ownable, IContractWizard {
     }
 
     // Token name
-    string private _name = "Ape Tapes Contract Wizard";
+    string private _name = "Contract Wizard";
 
     // Contract ids is the total number of all the clone contracts made
     uint256 private _contractIds;
