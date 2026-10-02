@@ -24,10 +24,7 @@
     ],
     "album": "example- We Love You",
     "track_number": 2,
-    "genre": [
-        "example- Rock",
-        "example- Instrumental"
-    ],
+    "genre": "example- Rock",
     "year": 2022,
     "mime_type": "example- audio/wav",
     "bit_depth": 16,
